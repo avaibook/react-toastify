@@ -10,7 +10,7 @@ export {
   IconProps,
   CloseButtonProps
 } from './components';
-export { toast, ToastPromiseParams } from './core';
+export { toast as notify, ToastPromiseParams } from './core';
 export {
   TypeOptions,
   Theme,

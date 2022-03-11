@@ -18,6 +18,9 @@
     "scss"
   ],
   "sideEffects": true,
+  "publishConfig": {
+    "@avaibook:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "start": "cd example && npm run start",
     "build": "npm run prepare",
@@ -57,7 +60,7 @@
       "/src/index.tsx"
     ]
   },
-  "name": "react-toastify",
+  "name": "@avaibook/react-toastify",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fkhadra/react-toastify.git"

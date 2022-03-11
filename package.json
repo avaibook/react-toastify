@@ -63,11 +63,7 @@
   "name": "@avaibook/react-toastify",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fkhadra/react-toastify.git"
-  },
-  "author": "Fadi Khadra  <fdkhadra@gmail.com> (https://fkhadra.github.io)",
-  "bugs": {
-    "url": "https://github.com/fkhadra/react-toastify/issues"
+    "url": "git+https://github.com/avaibook/react-toastify.git"
   },
   "homepage": "https://github.com/fkhadra/react-toastify#readme",
   "module": "dist/react-toastify.esm.js",
